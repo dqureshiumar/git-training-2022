@@ -4,4 +4,4 @@
 - abhishek 
 
 # Trainees
-- Abhishek Dhule web dev
+- Adity Dikshit
